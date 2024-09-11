@@ -1,1 +1,1 @@
-atlassian/confluence-server:8.5.6-ubuntu-jdk17
+mysql:8.0
