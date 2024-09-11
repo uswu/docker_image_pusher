@@ -1,1 +1,2 @@
-mysql:8.0
+atlassian/confluence-server:8.0.2
+atlassian/confluence-server:7.19.0
