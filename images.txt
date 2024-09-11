@@ -1,2 +1,1 @@
-atlassian/confluence-server:8.0.2
-atlassian/confluence-server:7.19.0
+postgres:latest
