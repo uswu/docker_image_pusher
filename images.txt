@@ -1,1 +1,1 @@
-ghcr.io/open-webui/ollama:main
+ghcr.io/open-webui/open-webui:main
