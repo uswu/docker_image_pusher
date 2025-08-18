@@ -1,3 +1,1 @@
-registry:latest
-rustdesk/rustdesk-server:1.1.14
-tindy2013/subconverter:latest
+paddlepaddle/paddle:3.0.0-gpu-cuda11.8-cudnn8.9-trt8.6
