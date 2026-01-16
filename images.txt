@@ -1,1 +1,1 @@
-boredazfcuk/icloudpd:1.0.1298_06-12-2025
+docker.io/library/python:3.7-slim 
