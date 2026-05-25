@@ -1,1 +1,1 @@
-redis:latest
+filebrowser/filebrowser:s6
