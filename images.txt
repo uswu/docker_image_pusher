@@ -1,1 +1,1 @@
-cloudreve/cloudreve:v4
+postgres:17
